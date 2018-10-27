@@ -1,4 +1,4 @@
-# **Maze For You**
+# **[Maze For You](https://maze4u.github.io/)**
 ---
 ### What Inspired us:
 After learning about a shark tank funded business called "I Want To Draw A Cat For You", in which the owner Steve draws cat caricatures for people, we were inspired to do something similar. Sam had the idea to draw mazes using a maze generating algorithm.
